@@ -1,7 +1,7 @@
 # Hi! Welcome to my GitHub!!! 😄👋
  <div>
  
-- My name is Luís Felipe. I have been studying programming since 2020!
+- My name is Luís Felipe. I have been studying programming since 2019!
 - I develop in ***Java*** and ***React.js***.
 - Email: luisfelipeprsilva@gmail.com
 - Linkedin: https://www.linkedin.com/in/luisfelipeprs/
