@@ -2,7 +2,7 @@
  <div>
  
 - My name is Luís Felipe. I have been studying programming since 2019!
-- I develop in ***Java*** and ***React.js***.
+- I develop in ***Django***, ***Java***, ***React.js*** and ***React Native***.
 - Email: luisfelipeprsilva@gmail.com
 - Linkedin: https://www.linkedin.com/in/luisfelipeprs/
 - My hobby is development, and I have a keen interest in cybersecurity, dedicating myself to studying the technologies present in the market.
@@ -17,9 +17,9 @@ In this repository, you will find all my projects, from personal projects to stu
 
 In the "Pinned" section of my profile, you will find the **four repositories that I consider most relevant**, just below this section:
 
-### 1. Employee Management Project 💼
+### 1. GSCare 🩺
 
-This is a CRUD project in Java and Angular for employee management, with features such as adding, editing, and deleting names, photos, positions, emails, numbers, etc.
+GSCare is developing a landing page featuring an innovative administrative panel for healthcare companies. This platform aims to optimize the management of staff, clients, medications, and appointments. The system is designed to revolutionize the homecare market by providing efficient and centralized administration of daily operations.
 
 ### 2. Landing Page Project 📱
 
