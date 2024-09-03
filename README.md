@@ -17,18 +17,14 @@ In this repository, you will find all my projects, from personal projects to stu
 
 In the "Pinned" section of my profile, you will find the **four repositories that I consider most relevant**, just below this section:
 
-### 1-2. GSCare 🩺
+### 1-3. GSCare 🩺
 
 GSCare is developing a landing page featuring an innovative administrative panel for healthcare companies. This platform aims to optimize the management of staff, clients, medications, and appointments. The system is designed to revolutionize the homecare market by providing efficient and centralized administration of daily operations.
 
-### 3. BeteBolos Landing Page 🎂
+### 4. BeteBolos Landing Page 🎂
 
 BeteBolos' portfolio project is a landing page built with HTML, CSS, and JS, showcasing the most amazing custom cakes and a gallery filled with irresistible treats.
 
-### 4. Landing Page Hilton Rocha 📱
-
-This is a project to create a website for my school (Escola Estadual Professor Hilton Rocha), which was presented at the entrepreneurship fair.
-Technologies used: HTML, CSS, Javascript, and Bootstrap.
 
    
   <div style="display: inline_block"><br>
