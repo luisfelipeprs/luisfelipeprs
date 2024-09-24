@@ -3,10 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006CCD&size=30&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Luís+Felipe;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
  <div>
  
-- Eu desenvolvo em ***.NET***, ***ASP.NET CORE***, ***React.js*** e ***React Native***.
+- Eu desenvolvo aplicações WEB e MOBILE em ***.NET***, ***ASP.NET CORE***, ***React.js*** e ***React Native***.
 - Email: luisfelipeprsilva@gmail.com
 - Linkedin: https://www.linkedin.com/in/luisfelipeprs/
-- Meu hobby é desenvolvimento, e tenho grande interesse em cybersecurity.
 
  
 # Meus Projetos > Repositórios Relevantes💻
