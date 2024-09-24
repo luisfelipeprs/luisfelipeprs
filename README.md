@@ -1,12 +1,12 @@
-# Olá! Bem vindo ao meu GitHub!!! 😄👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006CCD&size=30&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Luís+Felipe;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
  <div>
  
-- Meu nome é Luís Felipe. Trabalho na área desde 2022!
 - Eu desenvolvo em ***.NET***, ***ASP.NET CORE***, ***React.js*** e ***React Native***.
 - Email: luisfelipeprsilva@gmail.com
 - Linkedin: https://www.linkedin.com/in/luisfelipeprs/
 - Meu hobby é desenvolvimento, e tenho grande interesse em cybersecurity.
- ##
 
  
 # Meus Projetos > Repositórios Relevantes💻
@@ -20,5 +20,16 @@ GSCare é uma plataforma voltada para o setor de saúde, que oferece uma soluç�
 
 ### 4. BeteBolos Landing Page 🎂[Landing Page, clique aqui.](https://betebolos.vercel.app/)
 > Isso é uma demo do portfólio da BeteBolos. é uma landing page construída em HTML, CSS e JS, apresentando os mais incríveis bolos personalizados e uma galeria recheada de guloseimas irresistíveis.
+> 
+<br>
 
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
