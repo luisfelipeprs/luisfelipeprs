@@ -15,16 +15,17 @@
 
 Neste repositório você encontrará alguns de meus projetos públicos, desde projetos pessoais até projetos de estudo. Na seção "Pinned" do meu perfil, você encontrará os repositórios que considerei mais relevantes:
 
-### 1. GSCare - Sistema de Gestão de Saúde 🩺 
+### 1. GSCare - Sistema Web de Gestão de Saúde 🩺 
 [GSCARE, clique aqui.](https://gscare.com.br/)  
-**Tecnologias:** ASP.NET Core | React | React Native  
-GSCare é uma plataforma voltada para o setor de saúde, que oferece uma solução integrada de monitoramento e gestão. Com uma interface web e mobile, desenvolvida utilizando React e React Native, e um backend feito em ASP.NET Core, a ferramenta otimiza a organização de processos, aprimorando a qualidade do atendimento e a eficiência no cuidado dos pacientes.
+**Tecnologias:** ASP.NET Core | React  
+**Descrição:** GSCare é uma plataforma voltada para o setor de saúde, que oferece uma solução integrada de monitoramento e gestão. Desenvolvida utilizando React, e um backend feito em ASP.NET Core, a ferramenta otimiza a organização de processos, aprimorando a qualidade do atendimento e a eficiência no cuidado dos pacientes.
 
 ---
 
-### 2. BeteBolos - Landing Page 🎂 
-[Landing Page, clique aqui.](https://betebolos.vercel.app/)  
-**Descrição:** Uma demo do portfólio da BeteBolos, uma landing page construída em HTML, CSS e JS, apresentando os mais incríveis bolos personalizados e uma galeria recheada de guloseimas irresistíveis.
+### 2. HealthCare  - App Mobile 📱 
+[Demonstração do projeto, clique aqui.](https://www.youtube.com/watch?v=j2kA34xflWg)  
+**Tecnologias:** ASP.NET Core | Java | React Native
+**Descrição:** HealthCare é um aplicativo mobile voltado para o setor de saúde, que se conecta aos serviços da plataforma GSCare. Ele permite que os cuidadores administrem facilmente seus plantões e gerenciem os pacientes. Além disso, o app oferece suporte aos familiares, permitindo que acompanhem em tempo real cada etapa do atendimento prestado pelos cuidadores, proporcionando maior transparência e tranquilidade no processo de cuidado.
 
 ---
 
