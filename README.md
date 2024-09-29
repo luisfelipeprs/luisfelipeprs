@@ -24,7 +24,7 @@ Neste repositório você encontrará alguns de meus projetos públicos, desde pr
 
 ### 2. HealthCare  - App Mobile 📱 
 [Demonstração do projeto, clique aqui.](https://www.youtube.com/watch?v=j2kA34xflWg)  
-**Tecnologias:** ASP.NET Core | Java | React Native
+**Tecnologias:** ASP.NET Core | Java | React Native <br>
 **Descrição:** HealthCare é um aplicativo mobile voltado para o setor de saúde, que se conecta aos serviços da plataforma GSCare. Ele permite que os cuidadores administrem facilmente seus plantões e gerenciem os pacientes. Além disso, o app oferece suporte aos familiares, permitindo que acompanhem em tempo real cada etapa do atendimento prestado pelos cuidadores, proporcionando maior transparência e tranquilidade no processo de cuidado.
 
 ---
