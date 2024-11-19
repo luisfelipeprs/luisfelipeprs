@@ -33,6 +33,7 @@ Neste repositório você encontrará alguns de meus projetos públicos, desde pr
 [Frontend Mobile, clique aqui.](https://github.com/luisfelipeprs/AppDelivery_Mobile) - [Backend, clique aqui.](https://github.com/luisfelipeprs/AppDelivery_Backend)
 **Tecnologias:** .NET Core | React Native <br>
 **Descrição:** O sistema de delivery oferece uma solução completa para gerenciamento de entregas, permitindo a criação e acompanhamento de pedidos. Ele inclui o cadastro de três tipos de usuários: Empresas, para gerenciar seus produtos e pedidos; Consumidores, para realizar pedidos; e Entregadores, responsáveis pela entrega. O sistema possibilita o rastreamento de pedidos em tempo real, garantindo visibilidade e eficiência no processo de entrega. A plataforma é intuitiva e focada em melhorar a experiência de todos os envolvidos na cadeia de entregas.
+
 ---
 
 <div align="center">
